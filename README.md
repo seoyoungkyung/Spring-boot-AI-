@@ -1,7 +1,15 @@
-![RECORD_SHOP](https://capsule-render.vercel.app/api?type=Venom&height=200&text=RECORD%20SHOP&fontAlign=50&fontAlignY=53&color=gradient&fontColor=333&stroke=fff&fontSize=60)
+<!-- <p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SPRINGBOOT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FASTAPI%20기반%20AI%20추천시스템&descAlignY=51&descAlign=62" style="width: 100%;"/>
+</p> -->
+<p align='center'>
+  <img src="https://github.com/user-attachments/assets/ad143dc5-cd91-4dd8-85c8-76b49028ffd1"/>
+</p>
+
+
+
 
 ## 🙌 Spring Boot Project
-스프링부트를 이용한 음반판매 + AI 추천 시스템 사이트 만들기
+음반판매전문 + AI 추천 시스템 사이트 만들기
 
 ## 🕓 개발 시간
 2024/2/11 ~ 2025/02/12 (약 2일)
@@ -80,6 +88,13 @@
 <br/>
 
 ![image](https://github.com/user-attachments/assets/fcde9972-9a4a-46f4-b159-cadc6c9ee096)
+
+</details>
+
+<details><summary>FASTAPI 구현</summary>
+<br/>
+
+![image](https://github.com/user-attachments/assets/7da3bac4-6ab2-46b2-839a-c49f495c4881)
 
 </details>
 
