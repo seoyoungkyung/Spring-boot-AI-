@@ -111,14 +111,18 @@
 <details><summary>상품 리스트 페이지(검색 기능)</summary>
   <br/>
 
-![image](https://github.com/user-attachments/assets/46aba216-db1f-4226-9b40-8e4257a3c510)
+![리스트](https://github.com/user-attachments/assets/4c800f25-3193-498a-8524-20758027f6f9)
+
+
+![검색기능](https://github.com/user-attachments/assets/46d21f27-6982-49ab-871b-c04a3f87d54d)
+
 
 </details>
 
 <details><summary>상품 상세 페이지</summary>
   <br/>
-
-![image](https://github.com/user-attachments/assets/93339358-d25f-4df7-ba0e-9f6652728bce)
+  
+![제품상세보기](https://github.com/user-attachments/assets/2b713659-4d68-4192-9628-b780d248af74)
 
 
 </details>
@@ -126,7 +130,7 @@
 <details><summary>장바구니 페이지</summary>
   <br/>
 
-![image](https://github.com/user-attachments/assets/29298058-e25a-4548-a1e9-682906cb8981)
+![장바구니페이지](https://github.com/user-attachments/assets/98007b90-b9de-4301-9628-b8296e8d3f67)
 
 
 
@@ -135,8 +139,7 @@
 <details><summary>결제 페이지</summary>
   <br/>
 
-![image](https://github.com/user-attachments/assets/033575b1-ad14-428a-92db-5aa6dfb304c0)
-
+![결재화면페이지](https://github.com/user-attachments/assets/79071f25-3ada-4679-9062-e7f9c69eac2a)
 
 
 </details>
@@ -153,29 +156,35 @@
 
 <details><summary>카카오, 구글, 네이버 로그인 구현 페이지</summary>
   <br/>
+  
+![로그인페이지](https://github.com/user-attachments/assets/a4bde8e9-92f6-4003-a8af-c56fb551802b)
 
-![image](https://github.com/user-attachments/assets/8e980366-6402-4d1f-83e5-cf94f8512a48)
 
 </details>
 
 <details><summary>회원가입 페이지</summary>
   <br/>
+  
 
-![image](https://github.com/user-attachments/assets/9dd33954-aea6-4d9c-8a57-5fa99d6c7111)
+![회원가입](https://github.com/user-attachments/assets/abe25058-def0-4274-a6d3-b25f91abb8eb)
+
 
 </details>
 
 <details><summary>회원 정보 수정 페이지</summary>
   <br/>
 
-![image](https://github.com/user-attachments/assets/e9aff6f0-e668-4a5b-9caf-627135af6604)
+
+![회원정보수정](https://github.com/user-attachments/assets/f7d4c5c9-9713-409a-b286-745f68edce5c)
+
 
 </details>
 
 <details><summary>회원 마이페이지</summary>
   <br/>
 
-![image](https://github.com/user-attachments/assets/217446b6-bf12-4712-9863-197cd6b6221d)
+
+![회원마이페이지](https://github.com/user-attachments/assets/0d3b1979-1c30-42af-a3a3-a74c643a918d)
 
 
 </details>
@@ -183,26 +192,27 @@
 <details><summary>관리자 마이페이지</summary>
   <br/>
 
-![image](https://github.com/user-attachments/assets/b369abed-db6a-4058-a694-2bd326be356f)
-
-
-</details>
-
-<details><summary>1:1 문의하기 답변 전/답변 후</summary>
-  <br/>
-
-![image](https://github.com/user-attachments/assets/3fb1ff7f-2859-459b-843f-de128855e9ff)
-  <br/>
-![image](https://github.com/user-attachments/assets/d79b17b8-5ead-40d8-9089-7096a430088b)
+![관리자페이지](https://github.com/user-attachments/assets/b7701cf9-6808-49db-b02d-1a5422bf339f)
 
 
 
 </details>
 
-<details><summary>답변하기 페이지</summary>
+<details><summary>1:1 문의하기</summary>
   <br/>
 
-![image](https://github.com/user-attachments/assets/c4783025-f2f4-40f8-bc99-ab8d7aa73647)
+![회원문의](https://github.com/user-attachments/assets/89caa146-3c3d-4ffa-93ce-ca0f8689101d)
+
+![관리자 문의페이지](https://github.com/user-attachments/assets/aa8ef6af-a5be-4b33-b666-63f20aca22d6)
+
+
+</details>
+
+<details><summary>모든회원 주문조회</summary>
+  <br/>
+
+![모든회원 주문목록페이지](https://github.com/user-attachments/assets/a43ba939-e82b-43c8-94db-d40dc013fced)
+
 
 
 </details>
@@ -230,23 +240,59 @@
 
 
 ## 🎬 프로젝트 영상
-<details><summary>메인화면 및 로그인(회원가입) 구현/kakao 로그인/naver로그인/google로그인</summary>
+<details><summary>메인화면 및 로그인(회원가입) </summary>
 <br/>
 
-https://github.com/user-attachments/assets/c4ad76c0-a659-4c2b-8e4c-b60f1345cf17
 
-https://github.com/user-attachments/assets/243b30c1-f2b8-46c4-b387-495038994e16
+https://github.com/user-attachments/assets/7b18017a-7c92-4c70-b014-2f3d4b74e58f
 
-https://github.com/user-attachments/assets/a02d1d48-921f-4f48-aea9-5744e195d62a
 
-https://github.com/user-attachments/assets/8b74acaf-63b9-4a84-90b6-7996f992f914
+
+</details>
+
+<details><summary>kakao 로그인/naver로그인/google로그인</summary>
+<br/>
+
+
+https://github.com/user-attachments/assets/6d6d68ec-4e60-4bc8-bc9e-e4ea21d71f4f
+
+
+
+</details>
+
+<details><summary>회원수정</summary>
+<br/>
+
+
+https://github.com/user-attachments/assets/fc84479a-2007-4a35-9657-a7d22db3520e
+
+
+
 
 </details>
 
 <details><summary>목록화면 및 장바구니 선택 후 (카카오페이)결재 구현</summary>
 <br/>
 
-https://github.com/user-attachments/assets/2fceb34f-df5a-4882-a347-e451597e19fe
+
+https://github.com/user-attachments/assets/771bae6e-f6b3-4de4-ba91-1ad114971ffc
+
+
+
+
+</details>
+
+<details><summary>회원 주문확인 및 주문취소</summary>
+<br/>
+
+
+
+
+https://github.com/user-attachments/assets/5112eb43-a462-4325-85cf-62556c64674f
+
+
+
+
 
 </details>
 
@@ -254,14 +300,36 @@ https://github.com/user-attachments/assets/2fceb34f-df5a-4882-a347-e451597e19fe
 <br/>
 
 
-https://github.com/user-attachments/assets/51691ebb-17de-4c80-83cd-c24f60145ca6
+
+https://github.com/user-attachments/assets/df5b6ab5-2081-4efc-bea3-0103fe8b4826
+
+
+
+</details>
+
+<details><summary>list화면 및 검색기능</summary>
+<br/>
+
+
+
+https://github.com/user-attachments/assets/7e326e5d-91d8-433f-a87e-bf57f02a6e6b
+
+
+
+
+
+
 
 </details>
 
 <details><summary>관리자 상품등록/수정</summary>
 <br/>
 
-https://github.com/user-attachments/assets/c4a0eea9-0cd5-4d8c-bbf7-9eeee7fba65e
+
+
+https://github.com/user-attachments/assets/dcb578ab-8a35-42ad-9117-cbd7f9ea3dfb
+
+
 
 
 </details>
@@ -270,7 +338,15 @@ https://github.com/user-attachments/assets/c4a0eea9-0cd5-4d8c-bbf7-9eeee7fba65e
 <br/>
 
 
-https://github.com/user-attachments/assets/30dac2f4-4d9f-43ba-8077-f8175ec1db54
+https://github.com/user-attachments/assets/628f5f06-e75f-48ac-b677-84891f0af056
+
+
+
+
+
+https://github.com/user-attachments/assets/010cc3ce-9c0d-4b0b-875b-ee23458698f8
+
+
 
 
 
@@ -280,11 +356,14 @@ https://github.com/user-attachments/assets/30dac2f4-4d9f-43ba-8077-f8175ec1db54
 <br/>
 
 
-https://github.com/user-attachments/assets/a5a9a304-af2c-4d34-a7cb-70f73375f7a8
+
+https://github.com/user-attachments/assets/c5edc991-b0e4-4b86-a55e-48c5b137eebe
 
 
 
 </details>
+
+
 <br/>
 
 ## 📂 프로젝트 보고서 
