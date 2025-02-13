@@ -249,7 +249,7 @@
 #### 4. RESTful API 구축
 - REST API: 클라이언트와 서버 간 데이터 교환을 위한 API 제공.<br>
 #### 5. FASTAPI 구축
-- FASTAPI : FastAPI를 사용하여 머신러닝 기반의 AI 랜덤 추천시스템을 구현하여 추천을 실시간으로 제공. <br>
+- FASTAPI : FastAPI를 사용하여 랜덤 추천시스템을 구현하여 추천제품을 실시간으로 제공. <br>
 
 <br/>
 
