@@ -10,7 +10,8 @@
 음반판매전문 + 랜덤 추천 시스템 사이트 만들기
 
 ## 🕓 개발 시간
-2024/2/11 ~ 2025/02/12 (약 2일)
+2024/12/26 ~ 2025/01/15 (약 3주일) - 전반적인 기능과 웹디자인 구현<br>
+2025/02/11 ~ 2025/02/12 (약 2일) - FASTAPI 구축
 <br/>
 
 ## 📄  스프링부트 프로젝트 소개
@@ -21,9 +22,9 @@
 <br/>
 
 ## 🖍 기획 의도
-- 현재 음반 전문 판매 사이트가 부족하고 디지털 음원과 스트리밍 서비스의 인기가 높아지면서도 여전히 음반에 대한 수요가 존재한다는 점에서 기회가 있다고 판단
-- 특히 한정판 음반이나 아티스트의 특별한 앨범은 팬들에게 큰 가치를 지니고 있으며, 기존의 음반 판매 사이트는 음반 정보와 구매 편의성이 부족한 경우가 많음 
-- ✨ 음반만을 전문적으로 판매하는 플랫폼을 구축하여 사용자들이 쉽게 원하는 음반을 검색하고, 상세한 정보와 함께 편리하게 구매할 수 있는 환경을 제공하기 위해서
+- 현재 음반 전문 판매 사이트가 부족하고 디지털 음원과 스트리밍 서비스의 인기가 높아지면서도 여전히 음반에 대한 수요가 존재한다는 점에서 기회가 있다고 판단하였습니다
+- 특히 한정판 음반이나 아티스트의 특별한 앨범은 팬들에게 큰 가치를 지니고 있으며, 기존의 음반 판매 사이트는 음반 정보와 구매 편의성이 부족한 경우가 많습니다.
+- ✨ 음반만을 전문적으로 판매하는 플랫폼을 구축하여 사용자들이 쉽게 원하는 음반을 검색하고, 상세한 정보와 함께 편리하게 구매할 수 있는 환경을 제공하기 위해서 제작하게 되었습니다.
 
 <br/>
 
@@ -35,7 +36,8 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf -005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
 </div>
 <div>
 <h4> Front-End </h4>
