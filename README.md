@@ -1,9 +1,7 @@
-<!-- <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SPRINGBOOT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FASTAPI%20기반%20AI%20추천시스템&descAlignY=51&descAlign=62" style="width: 100%;"/>
-</p> -->
 <p align='center'>
-  <img src="https://github.com/user-attachments/assets/ad143dc5-cd91-4dd8-85c8-76b49028ffd1"/>
+  <img src="https://github.com/user-attachments/assets/bd5acedd-80a8-43a4-b533-98315dd34e1c"/>
 </p>
+
 
 
 
@@ -36,6 +34,8 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Thymeleaf -005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
+<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </div>
 <div>
 <h4> Front-End </h4>
@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/naver -03C75A?style=for-the-badge&logo=naver&logoColor=white">
 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+
 
 </div>
 <div>
